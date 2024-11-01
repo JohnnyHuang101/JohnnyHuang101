@@ -1,5 +1,6 @@
 # 💫About Me :
-I'm currently a Junior studying CS+Math and WashU in St.Louis.
+
+I'm currently a Junior studying CS+Math and WashU in St.Louis :). 
 
 I have past experience with full stack development, Computer Vision algorithms, Data Science analytics, LLMs.
 
@@ -13,5 +14,8 @@ I have past experience with full stack development, Computer Vision algorithms, 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyHuang101&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### Random meme
+
+![image](https://github.com/user-attachments/assets/40739903-ce3c-4466-9645-d669626813f5)
+
+

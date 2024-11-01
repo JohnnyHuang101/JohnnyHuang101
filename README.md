@@ -2,7 +2,7 @@
 
 I'm currently a Junior studying CS+Math and WashU in St.Louis :). 
 
-I have past experience with full stack development, Computer Vision algorithms, Data Science analytics, LLMs.
+I have past experience with full stack development, Computer Vision Algorithms, Data Science Analytics, and generative tasks using LLMs.
 
 
 
